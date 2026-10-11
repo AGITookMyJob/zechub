@@ -52,8 +52,11 @@ Users can choose between **Transparent** or **Shielded** transactions. For more 
 
 The protocol is governed by the **Zcash Improvement Proposal (ZIP)** process. Anyone can submit a draft ZIP. Drafts are debated by the community and accepted or rejected by the ZIP editors:
 
-- [Daira Hopwood](https://twitter.com/feministPLT) (Electric Coin Company)
-- [Deirdre Connolly](https://twitter.com/durumcrustulum) (Zcash Foundation)
+- Jack Grigg, Daira-Emma Hopwood, and Kris Nuttycombe in their individual capacities.
+- Arya and Marek, associated with the Zcash Foundation.
+- Mark Henderson and Sam H. Smith, associated with Shielded Labs.
+- Sean Bowe and Tal Derei, associated with Project Tachyon.
+- Dev Ojha, associated with Valar Group.
 
 Decisions are written into the specification and ratified on-chain when the network adopts them.
 

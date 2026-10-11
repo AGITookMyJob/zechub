@@ -23,9 +23,11 @@ Because the ZIPs are maintained as text files in a versioned repository, their r
 For every ZIP that comes in, it must undergo the review process. ZIP editors are tasked with ensuring the format and content of any ZIP adequately describes terms, rationale and technical changes made. 
 
 ```markdown
-* Jack Grigg, Kris Nuttycombe and Daira-Emma Hopwood associated with the ECC.
-* Conrado, and Arya, associated with the ZF.
-* Sam and Mark, associated with SL.
+* Jack Grigg, Daira-Emma Hopwood, and Kris Nuttycombe in their individual capacities.
+* Arya and Marek, associated with the Zcash Foundation.
+* Mark Henderson and Sam H. Smith, associated with Shielded Labs.
+* Sean Bowe and Tal Derei, associated with Project Tachyon.
+* Dev Ojha, associated with Valar Group.
 ```
 
 ## Notable Current ZIPs
