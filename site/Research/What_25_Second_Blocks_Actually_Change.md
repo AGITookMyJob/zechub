@@ -57,8 +57,9 @@ ZIP 218 adds caps on how much shielded activity a single block can hold:
 |---|---|
 | All shielded pools combined | 330 (each Sprout JoinSplit counts as 2) |
 | Orchard actions | 330 |
+| Ironwood actions | 330 |
 | Sapling inputs plus outputs | 300 |
-| Sprout JoinSplits | 25 |
+| Sprout JoinSplits | 0 (the pool is closed to new JoinSplits) |
 
 Transparent parts of transactions are not affected, and the 2 MB block size limit still applies.
 
